@@ -1,0 +1,7 @@
+{
+  "name": "OmniChat AI",
+  "description": "A powerful, intelligent chat assistant powered by Gemini 3 Flash. Capable of complex reasoning, coding, and general knowledge tasks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
